@@ -2,7 +2,7 @@
 
 Welcome to my project showcasing how I use **SQL** and **Power BI** to analyze sales performance and customer behavior.
 
-Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for the course ["Intermediate SQL for Data Analytics"](https://www.youtube.com/watch?v=QKIGsShyEsQ), which helped me build and apply these skills in a realistic business scenario.
+Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for the course [Intermediate SQL for Data Analytics](https://www.youtube.com/watch?v=QKIGsShyEsQ), which helped me build and apply these skills in a realistic business scenario.
 
 **Data Source**: [Contoso Data Generator V2](https://github.com/sql-bi/Contoso-Data-Generator-V2)
 
