@@ -1,6 +1,6 @@
-# Intermediate SQL - Sales Analysis
+# E-commerce Customer Analysis (SQL + Power BI)
 
-Welcome to my project showcasing how I use **SQL** and **Power BI** to analyze sales performance and customer behavior.
+Welcome to my project showcasing how I use **SQL** and **Power BI** to analyze sales performance, customer retention, and lifetime value.
 
 Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for the course [Intermediate SQL for Data Analytics](https://www.youtube.com/watch?v=QKIGsShyEsQ), which helped me build and apply these skills in a realistic business scenario.
 
@@ -8,7 +8,7 @@ Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Ad
 
 ## Overview
 
-Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company to support customer retention and revenue growth.
 
 ## Business Questions
 
