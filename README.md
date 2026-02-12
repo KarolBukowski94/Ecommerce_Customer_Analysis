@@ -1,4 +1,4 @@
-# E-commerce Customer Analysis (SQL + Power BI)
+# E-commerce Customer Analysis — SQL + Power BI
 
 Welcome to my project showcasing how I use **SQL** and **Power BI** to analyze sales performance, customer retention, and lifetime value.
 
@@ -18,7 +18,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Clean Up Data
 
-**Query**: [0_Cohort_Analysis.sql](0_Cohort_Analysis.sql)
+**Query**: [0_cohort_analysis.sql](0_cohort_analysis.sql)
 
 - Aggregated sales and customer data into revenue metrics
 - Calculated first purchase dates for cohort analysis
@@ -28,7 +28,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 1. Customer Segmentation
 
-**Query**: [1_Customer_Segmentation.sql](1_Customer_Segmentation.sql)
+**Query**: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
 - Categorized customers based on total lifetime value (LTV)
 - Assigned customers to High, Mid, and Low-value segments
@@ -36,7 +36,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Visualization:**
 
-<img src="images/1_Customer_Segmentation.png" alt="Customer Segmentation">
+<img src="images/1_Customer_Segmentation.png" alt="Customer Segmentation" width="800">
 
 **Key Findings:**
 
@@ -60,11 +60,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 #### Customer Revenue by Cohort Year
 
-**Query**: [2.0_Customer_Revenue_Normalized.sql](2.0_Customer_Revenue_Normalized.sql)
+**Query**: [2.0_customer_revenue_normalized.sql](2.0_customer_revenue_normalized.sql)
 
 **Visualization:**
 
-<img src="images/2.0_Customer_Revenue_Normalized.png" alt="Customer Revenue Normalized">
+<img src="images/2.0_Customer_Revenue_Normalized.png" alt="Customer Revenue Normalized" width="800">
 
 **Key Findings:**
 
@@ -73,11 +73,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 #### Quarter Revenue & Customer Trends (3-Quarter Rolling Average)
 
-**Query**: [2.1_Quarter_Revenue_Customer_Trends.sql](2.1_Quarter_Revenue_Customer_Trends.sql)
+**Query**: [2.1_quarter_revenue_customer_trends.sql](2.1_quarter_revenue_customer_trends.sql)
 
 **Visualization:**
 
-<img src="images/2.1_Quarter_Revenue_Customer_Trends.png" alt="Quarter Revenue & Customer Trends">  
+<img src="images/2.1_Quarter_Revenue_Customer_Trends.png" alt="Quarter Revenue & Customer Trends" width="800">  
 
 **Key Findings:**
 
@@ -102,7 +102,7 @@ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 **Visualization:**
 
-<img src="images/3_Retention_Analysis.png" alt="Customer Churn by Cohort Year">
+<img src="images/3_Retention_Analysis.png" alt="Customer Churn by Cohort Year" width="800">
 
 **Key Findings:**
 
